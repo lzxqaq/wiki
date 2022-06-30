@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wiki</title>
-    <link>/post/</link>
-    <description>Recent content on wiki</description>
+    <title>罗泽勋 on wiki</title>
+    <link>/author/%E7%BD%97%E6%B3%BD%E5%8B%8B/</link>
+    <description>Recent content in 罗泽勋 on wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 29 Jun 2022 00:30:05 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2022 00:30:05 +0800</lastBuildDate><atom:link href="/author/%E7%BD%97%E6%B3%BD%E5%8B%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formality 形式验证基本原理</title>
       <link>/post/2022-6-26/</link>
